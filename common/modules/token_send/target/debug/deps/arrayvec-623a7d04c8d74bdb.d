@@ -1,0 +1,11 @@
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/arrayvec-623a7d04c8d74bdb.rmeta: /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs
+
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/arrayvec-623a7d04c8d74bdb.d: /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs
+
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs:

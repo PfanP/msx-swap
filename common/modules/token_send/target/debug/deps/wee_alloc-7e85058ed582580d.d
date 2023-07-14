@@ -1,0 +1,11 @@
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/wee_alloc-7e85058ed582580d.rmeta: /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/wee_alloc-7e85058ed582580d.d: /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs /Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs:
+/Users/ticktock/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs:

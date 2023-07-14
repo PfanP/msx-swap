@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./common/modules/token_send/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}

@@ -1,0 +1,11 @@
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/arrayvec-ff10f468e202c6e8.rmeta: /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/lib.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec_impl.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/array_string.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/char.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/errors.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/utils.rs
+
+/Volumes/Work/swing/bridge-new/common/modules/token_send/target/debug/deps/arrayvec-ff10f468e202c6e8.d: /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/lib.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec_impl.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/array_string.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/char.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/errors.rs /Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/utils.rs
+
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/lib.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec_impl.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/arrayvec.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/array_string.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/char.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/errors.rs:
+/Users/ticktock/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.2/src/utils.rs:

@@ -1,0 +1,22 @@
+[package]
+name = "bridge-new"
+version = "0.0.0"
+authors = [ "you",]
+edition = "2018"
+publish = false
+
+[lib]
+path = "src/bridge.rs"
+
+[dependencies.multiversx-sc]
+version = "0.39.4"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.39.4"
+
+[dependencies.token_send]
+path = "./common/modules/token_send"
+
+
+[dependencies.common-structs]
+path = "./common/structs"
